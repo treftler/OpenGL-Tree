@@ -1,4 +1,4 @@
-build/Debug/GLで実行
+Tree/build/Debug/GLで実行
 MacでコンパイルしたためWindowsで動作するか不明
 
 作成環境：Mac OS 10.11
